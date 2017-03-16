@@ -1,4 +1,3 @@
-
 greetings = [
 	"Hello, my dear friend! I'm answering you question...",
 	"The one asking will always receive the answer",
